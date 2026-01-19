@@ -1,0 +1,87 @@
+{
+ 
+  "password":"12h212",
+  "name": {
+    "firstName": "Rabiul",
+    "middleName": "Hasan",
+    "lastName": "Shuvo"
+  },
+  "gender": "male",
+  "dateOfBirth": "2000-05-10",
+  "email": "rabiul@example.com",
+  "contactNo": "01712345678",
+  "emergencyContactNo": "01987654321",
+  "bloogGroup": "A+",
+  "presentAddress": "Dhaka, Bangladesh",
+  "permanentAddress": "Rajshahi, Bangladesh",
+  "guardian": {
+    "fatherName": "Abdul Karim",
+    "fatherOccupation": "Businessman", 
+    "fatherContactNo": "01811112222",
+    "motherName": "Salma Begum",
+    "motherOccupation": "Teacher",
+    "motherContactNo": "01833334444"
+  },
+  "localGuardian": {
+    "name": "Mahmudul Hasan",
+    "occupation": "Engineer",
+    "contactNo": "01655556666",
+    "address": "Uttara, Dhaka"
+  },
+  "profileImg": "https://example.com/profile/rabiul.png",
+  "admissionSemester":"",
+ "academicDepartment":""
+}
+{
+ 
+  "password":"12h212",
+ "student":{
+   "name": {
+    "firstName": "Rabiul",
+    "middleName": "Hasan",
+    "lastName": "Shuvo"
+  },
+  "gender": "male",
+  "dateOfBirth": "2000-05-10",
+  "email": "rabiul@example.com",
+  "contactNo": "01712345678",
+  "emergencyContactNo": "01987654321",
+  "bloogGroup": "A+",
+  "presentAddress": "Dhaka, Bangladesh",
+  "permanentAddress": "Rajshahi, Bangladesh",
+  "guardian": {
+    "fatherName": "Abdul Karim",
+    "fatherOccupation": "Businessman", 
+    "fatherContactNo": "01811112222",
+    "motherName": "Salma Begum",
+    "motherOccupation": "Teacher",
+    "motherContactNo": "01833334444"
+  },
+  "localGuardian": {
+    "name": "Mahmudul Hasan",
+    "occupation": "Engineer",
+    "contactNo": "01655556666",
+    "address": "Uttara, Dhaka"
+  },
+  "profileImg": "https://example.com/profile/rabiul.png",
+  "isActive": "active"
+ }
+}
+
+
+{
+   "name":"Autumn", 
+    "year": "2030",
+    "code": "01",
+    "startMonth":"January", 
+    "endMonth": "March"
+}
+// for faculty
+{
+  "name": "Computer Science and Engineering"
+}
+// create department
+{
+  "name": "cse",
+  "academicFaculty": "id of faculty data"
+}
